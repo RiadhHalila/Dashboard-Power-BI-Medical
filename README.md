@@ -22,5 +22,5 @@ Git/GitHub : Gestion de version et documentation du projet.
 📂 Accès au projetLe fichier source Power BI est disponible dans ce dépôt :
 📥 Télécharger le fichier Projet BI RH BLUE.pbix
 
-👤 À propo : sDéveloppé par Riadh Halila.
+👤 À propos : Développé par Riadh Halila.
 N'hésitez pas à me contacter pour toute suggestion d'amélioration ou pour discuter de ce projet.
