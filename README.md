@@ -1,6 +1,6 @@
 📊 Dashboard Power BI - Analyse RH Médicale📝
 
-Description du projet
+Description du projet :
 Ce projet présente une solution complète de Business Intelligence développée sous Power BI, dédiée à l'analyse et au suivi des indicateurs de performance (KPI) des Ressources Humaines au sein d'un environnement médical.
 L'objectif est d'offrir une vision claire et dynamique des données du personnel afin d'aider à la prise de décision stratégique, à l'optimisation de la gestion des effectifs et au suivi du bien-être au travail.
 
